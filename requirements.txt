@@ -1,9 +1,9 @@
-## lca_disclosures - requirements
+## lca_disclosures_bw2 - requirements
 
 ## required by base class - NONE
+lca_disclosures>=0.2.0
 
 ## required by lcopt and brightway2
-scipy
 numpy
 
 ## required by brightway2
